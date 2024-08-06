@@ -1,5 +1,5 @@
-# Lane following detection in autonomous vehicles
-If you are wondering how smart cars automatically follow the driverless lane and go to the desired route, I have prepared an article for you using an applied image processing algorithm.
+# Lane line detection in autonomous vehicles
+If you are wondering how smart cars automatically follow the driverless lane line and go to the desired route, I have prepared an article for you using an applied image processing algorithm.
 Essentially, the Hough Line Transform structure, which has similar logic in all image processing algorithms, is used.I will create an example scenario using the Python programming language.
 
 In fact, what is important here is the functionality of the cameras on the front bumpers of autonomous vehicles. While the vehicle is in motion, the cameras continuously process the image. The most important thing is to be able to detect the lane.
@@ -13,4 +13,5 @@ In fact, what is important here is the functionality of the cameras on the front
 ## Detected Picture
 ![painted](https://github.com/user-attachments/assets/dccab1ac-174d-408f-862e-ca6047fa0c83)
 
+You can find my article in which I explain the codes in detail [here](https://mustafaulas.net/Article/ArticleDetail/3009/how-do-autonomous-vehicles-detect-lane-lines).
 
